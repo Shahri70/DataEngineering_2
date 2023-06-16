@@ -1,0 +1,11 @@
+pandas
+numpy
+ta_lib-0.4.0-py3-none-any.whl
+google-cloud-bigquery
+pandas-gbq
+google-cloud-secret-manager
+google-auth
+google-cloud-storage
+scikit-learn
+matplotlib
+python-binance

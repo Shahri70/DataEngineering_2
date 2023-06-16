@@ -1,0 +1,17 @@
+runtime: python39
+
+handlers:
+  - url: /Data_Updating
+    script: auto
+
+  - url: /Model_Update_2d
+    script: auto
+
+  - url: /prediction
+    script: auto
+
+  - url: /try
+    script: auto
+  
+  - url: /.*
+    script: auto
