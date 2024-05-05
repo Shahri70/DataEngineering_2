@@ -5,7 +5,7 @@ from google.cloud import bigquery
 import json
 from google.oauth2 import service_account
 from google.auth import jwt
-
+#
 binance_api_key = 'VvriEf3Lvl74QqdG8XnxeaUV2YyJ2u56ecRg8gh1Mb7mx7BAWUlrDC87nHEBIi40'
 binance_api_secret = 'LwfOr7t6E9eqqG9JtxNacWTkvoKkI9Ftmr7JbYQ29MOWCL33x6nSdCbYbv04Ya8A'
 bi_client = Client(binance_api_key, binance_api_secret)
